@@ -4,5 +4,6 @@
 
 int main() {
     unsigned char* pbuf = malloc(64); 
+    printf("-bye-\n");
     return 0;
 }
